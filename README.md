@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/unkn1wn0/elevated-typing/refs/heads/main/elevated-typing.png" style="display:block;margin-left:auto;margin-right:auto;">
+
 # Elevated Typing
 
 **Elevated Typing** is a simple AutoHotkey script I created to solve my own workflow issues with typing superscript and subscript characters.  
