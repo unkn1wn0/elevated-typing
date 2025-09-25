@@ -20,3 +20,9 @@ Feel free to use, modify, or improve it as you wish!
 ## License
 
 This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
+
+## Issues
+
+There are multiple issues that need to be fixed
+
+- The mappings for subscript don't exist for a few letters, meaning some keys don't work with subscript
